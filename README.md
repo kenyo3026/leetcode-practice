@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
+| [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
