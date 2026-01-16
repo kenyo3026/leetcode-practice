@@ -12,13 +12,14 @@ class Solution:
             graphs[v].append(u)
 
         def dfs(city):
+
             visited.add(city)
 
             for neighbor in graphs[city]:
 
                 if neighbor in visited:
                     continue
- 
+
                 if not (neighbor, city) in edges:
                     self.need_flips += 1
 
