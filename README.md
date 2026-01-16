@@ -42,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
