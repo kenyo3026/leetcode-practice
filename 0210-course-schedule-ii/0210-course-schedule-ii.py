@@ -1,24 +1,29 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        graph = [[] for _ in range(numCourses)]
-        in_degrees = [0] * numCourses
-
+        graph = [[] for i in range(numCourses)]
         for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            in_degrees[course] += 1
+            graph[course].append(prereq)
 
-        queue = [course for course in range(numCourses) if in_degrees[course] == 0]
+        visited = [0] * numCourses
         topo_sorted = []
 
-        while queue:
-            node = queue.pop()
-            topo_sorted.append(node)
+        def dfs(node): # treat as check has cycle or not
+            if visited[node] == 1:
+                return True
+            elif visited[node] == 2:
+                return False
+
+            visited[node] = 1
 
             for neighbor in graph[node]:
-                in_degrees[neighbor] -= 1
-                if in_degrees[neighbor] == 0:
-                    queue.append(neighbor)
+                if dfs(neighbor):
+                    return True
 
-        if len(topo_sorted) == numCourses:
-            return topo_sorted
-        return []
+            topo_sorted.append(node)
+            visited[node] = 2
+            return False
+
+        for course in range(numCourses):
+            if dfs(course):
+                return []
+        return topo_sorted
