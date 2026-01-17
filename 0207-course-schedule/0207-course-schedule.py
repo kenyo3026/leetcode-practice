@@ -1,22 +1,27 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = [[] for _ in range(numCourses)]
-        in_degrees = [0 for _ in range(numCourses)]
-
+        graph = [[] for course in range(numCourses)]
         for course, prereq in prerequisites:
-            graph[prereq].append(course)
-            in_degrees[course] += 1
+            graph[course].append(prereq)
 
-        queue = [course for course in range(numCourses) if in_degrees[course] == 0]
-        topo_sorted = []
+        visited = [0] * numCourses
 
-        while queue:
-            node = queue.pop()
-            topo_sorted.append(node)
+        def dfs(node): # treat as check is cycle or not
+            if visited[node] == 1:
+                return True
+            elif visited[node] == 2:
+                return False
 
-            for neighbor in graph[node]: # unlock progressively
-                in_degrees[neighbor] -= 1
-                if in_degrees[neighbor] == 0:
-                    queue.append(neighbor)
+            visited[node] = 1
 
-        return len(topo_sorted) == numCourses
+            for neighbor in graph[node]:
+                if dfs(neighbor):
+                    return True
+
+            visited[node] = 2
+            return False
+
+        for course in range(numCourses):
+            if dfs(course):
+                return False
+        return True
