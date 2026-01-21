@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
+| [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0872-leaf-similar-trees](https://github.com/kenyo3026/leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
