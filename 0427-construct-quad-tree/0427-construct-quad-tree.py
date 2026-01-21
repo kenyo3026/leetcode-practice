@@ -12,31 +12,20 @@ class Node:
 
 class Solution:
     def construct(self, grid: List[List[int]]) -> 'Node':
-        n = len(grid)
+        def build(size, row, col): 
+            if size == 1:
+                return Node(grid[row][col], True, None, None, None, None)
+            
+            half = size // 2
+            topleft = build(half, row, col)
+            topright = build(half, row, col+half)
+            bottomleft = build(half, row+half, col)
+            bottomright = build(half, row+half, col+half)
+            if (
+                topleft.isLeaf and topright.isLeaf and bottomleft.isLeaf and bottomright.isLeaf and 
+                topleft.val == topright.val == bottomleft.val == bottomright.val
+                ):
+                return Node(topleft.val, True, None, None, None, None)
+            return Node(1, False, topleft, topright, bottomleft, bottomright)
 
-        def divide_and_conquer(row_left, row_right, col_left, col_right):
-            if row_right - row_left == 1:
-                return Node(val=grid[row_left][col_left] == 1, isLeaf=True, 
-                            topLeft=None, topRight=None, 
-                            bottomLeft=None, bottomRight=None)
-
-            row_mid = (row_left + row_right) // 2
-            col_mid = (col_left + col_right) // 2
-
-            topLeft = divide_and_conquer(row_left, row_mid, col_left, col_mid)
-            topRight = divide_and_conquer(row_left, row_mid, col_mid, col_right)
-            bottomLeft = divide_and_conquer(row_mid, row_right, col_left, col_mid)
-            bottomRight = divide_and_conquer(row_mid, row_right, col_mid, col_right)
-
-            if (topLeft.isLeaf and topRight.isLeaf and bottomLeft.isLeaf and bottomRight.isLeaf and 
-                topLeft.val == topRight.val == bottomLeft.val == bottomRight.val):
-
-                return Node(val=topLeft.val, isLeaf=True, 
-                            topLeft=None, topRight=None, 
-                            bottomLeft=None, bottomRight=None)
-
-            return Node(val=True, isLeaf=False, 
-                        topLeft=topLeft, topRight=topRight, 
-                        bottomLeft=bottomLeft, bottomRight=bottomRight)
-
-        return divide_and_conquer(0, n, 0, n)
+        return build(len(grid), 0, 0)
