@@ -8,14 +8,15 @@ class Solution:
     def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
 
         def divide_and_conquer(left, right):
+            if left >= right:
+                return
+
             mid = (left + right) // 2
 
             root = TreeNode(nums[mid])
 
-            if nums[left: mid]:
-                root.left = divide_and_conquer(left, mid)
-            if nums[mid + 1: right]:
-                root.right = divide_and_conquer(mid + 1, right)
+            root.left = divide_and_conquer(left, mid)
+            root.right = divide_and_conquer(mid + 1, right)
 
             return root
 
