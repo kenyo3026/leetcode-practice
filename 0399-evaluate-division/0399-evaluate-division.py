@@ -1,6 +1,5 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-
         graph = {}
         for (numer, denom), value in zip(equations, values):
             graph[numer] = graph.get(numer, {})
@@ -9,7 +8,10 @@ class Solution:
             graph[denom] = graph.get(denom, {})
             graph[denom][numer] = 1 / value
 
+
         def dfs(numer, denom, visited):
+
+            visited.add(numer)
 
             if not numer in graph or not denom in graph:
                 return -1
@@ -17,22 +19,20 @@ class Solution:
             if denom in graph[numer]:
                 return graph[numer][denom]
 
-            visited.add(numer)
-
             for factor in graph[numer]:
 
                 if factor in visited:
                     continue
 
-                value = dfs(factor, denom, visited)
-                if value != -1:
-                    return graph[numer][factor] * value
+                res = dfs(factor, denom, visited)
+                if res != -1:
+                    return graph[numer][factor] * res
 
             return -1
 
-        answers = []
+        results = []
         for numer, denom in queries:
-            ans = dfs(numer, denom, set())
-            answers.append(ans)
+            res = dfs(numer, denom, set())
+            results.append(res)
 
-        return answers
+        return results
