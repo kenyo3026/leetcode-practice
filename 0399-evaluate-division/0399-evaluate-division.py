@@ -11,13 +11,13 @@ class Solution:
 
         def dfs(numer, denom, visited):
 
-            visited.add(numer)
-
             if not numer in graph or not denom in graph:
                 return -1
 
             if denom in graph[numer]:
                 return graph[numer][denom]
+
+            visited.add(numer)
 
             for factor in graph[numer]:
 
