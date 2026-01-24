@@ -3,6 +3,6 @@ class Solution:
         nums = [-num for num in nums]
         heapq.heapify(nums)
 
-        for _ in range(k):
-            kth_max = heapq.heappop(nums)
-        return -kth_max
+        for i in range(k):
+            res = heapq.heappop(nums)
+        return -res
