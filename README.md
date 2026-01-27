@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 ## Backtracking
@@ -145,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
