@@ -1,10 +1,12 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        ones = 0
-        twos = 0
-        
-        for x in nums:
-            ones = (ones ^ x) & ~twos
-            twos = (twos ^ x) & ~ones
+        num_count = {'1':set(), '>1':set()}
+
+        for num in nums:
+            if not num in num_count['1'] and not num in num_count['>1']:
+                num_count['1'].add(num)
+            elif not num in num_count['>1']:
+                num_count['1'].remove(num)
+                num_count['>1'].add(num)
             
-        return ones
+        return next(iter(num_count['1']))
