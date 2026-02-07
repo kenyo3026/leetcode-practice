@@ -4,8 +4,9 @@ class Solution:
         dp = [1] * n
 
         for i in range(n):
-            candidates = [dp[j] for j in range(i) if nums[i] > nums[j]]
-            if candidates:
-                dp[i] = max(candidates) + 1
+            smallers = [dp[j] for j in range(i) if nums[j] < nums[i]]
+            if smallers:
+                dp[i] = max(smallers) + 1
 
         return max(dp)
+        
