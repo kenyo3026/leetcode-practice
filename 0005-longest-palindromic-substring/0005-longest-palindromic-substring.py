@@ -4,9 +4,11 @@ class Solution:
         if n <= 1:
             return s
 
-        dp = [[None for _ in range(n)] for _ in range(n)]
+        dp = [[False] * n for _ in range(n)]
         for i in range(n):
             dp[i][i] = True
+
+        start, max_len = 0, 1
 
         def is_palindromic(i, j):
             if i >= j:
@@ -17,14 +19,15 @@ class Solution:
             dp[i][j] = s[i] == s[j] and is_palindromic(i+1, j-1)
             return dp[i][j]
 
-        max_palindromic = s[0]
-        for i in range(n):
-            for j in range(i, n):
-                if is_palindromic(i, j):
-                    if j - i + 1 > len(max_palindromic):
-                        max_palindromic = s[i:j+1]
+        for length in range(2, n+1):
+            for i in range(n - length + 1):
+                j = i + length - 1
+                if s[i] == s[j]:
+                    dp[i][j] = (length == 2) or dp[i+1][j-1]
+                    if dp[i][j] and length > max_len:
+                        start, max_len = i, length
 
-        return max_palindromic
+        return s[start:start+max_len]
 
 
 
