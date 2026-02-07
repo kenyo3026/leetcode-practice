@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/kenyo3026/leetcode-practice/tree/master/0120-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kenyo3026/leetcode-practice/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
