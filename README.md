@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
