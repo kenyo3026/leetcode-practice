@@ -10,15 +10,6 @@ class Solution:
 
         start, max_len = 0, 1
 
-        def is_palindromic(i, j):
-            if i >= j:
-                return True
-            if dp[i][j] is not None:
-                return dp[i][j]
-
-            dp[i][j] = s[i] == s[j] and is_palindromic(i+1, j-1)
-            return dp[i][j]
-
         for length in range(2, n+1):
             for i in range(n - length + 1):
                 j = i + length - 1
