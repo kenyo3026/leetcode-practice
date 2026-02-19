@@ -16,11 +16,7 @@ class Solution:
 
         for i in range(1, n1+1):
             for j in range(1, n2+1):
-
-                if dp[i-1][j] and s1[i-1] == s3[i+j-1]:
-                    dp[i][j] = True
-
-                elif dp[i][j-1] and s2[j-1] == s3[i+j-1]:
-                    dp[i][j] = True
+                dp[i][j] = (dp[i-1][j] and s1[i-1] == s3[i+j-1]) or \
+                            (dp[i][j-1] and s2[j-1] == s3[i+j-1])
             
         return dp[-1][-1]
