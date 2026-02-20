@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kenyo3026/leetcode-practice/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kenyo3026/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
 | [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kenyo3026/leetcode-practice/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/kenyo3026/leetcode-practice/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
