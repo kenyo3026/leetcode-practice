@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
+| [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
