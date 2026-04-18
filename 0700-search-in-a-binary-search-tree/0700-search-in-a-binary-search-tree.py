@@ -6,20 +6,14 @@
 #         self.right = right
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
-        self.val = val
-        self.res = None
 
-        def in_order_dfs(node):
+        if not root:
+            return
 
-            if not node:
-                return
+        if root.val == val:
+            return root
 
-            if node.val == self.val:
-                self.res = node
-                return
+        if root.val > val:
+            return self.searchBST(root.left, val)
 
-            in_order_dfs(node.left)
-            in_order_dfs(node.right)
-
-        in_order_dfs(root)
-        return self.res
+        return self.searchBST(root.right, val)
