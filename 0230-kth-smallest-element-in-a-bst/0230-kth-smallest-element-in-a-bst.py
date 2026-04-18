@@ -6,7 +6,8 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        vals = []
+        self.k = k
+        self.kth_val = None
 
         def in_order_dfs(node):
 
@@ -15,10 +16,12 @@ class Solution:
 
             in_order_dfs(node.left)
 
-            vals.append(node.val)
+            self.k -= 1
+            if self.k == 0:
+                self.kth_val = node.val
 
             in_order_dfs(node.right)
 
         in_order_dfs(root)
 
-        return vals[k-1]
+        return self.kth_val
