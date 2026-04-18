@@ -37,4 +37,6 @@ class Solution:
                         queue.append((similiar_word, step + 1))
                         visited.add(similiar_word)
 
+                pattern_dict[pattern] = []
+
         return 0
