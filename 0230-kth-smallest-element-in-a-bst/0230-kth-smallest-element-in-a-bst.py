@@ -19,6 +19,7 @@ class Solution:
             self.k -= 1
             if self.k == 0:
                 self.kth_val = node.val
+                return
 
             in_order_dfs(node.right)
 
