@@ -6,17 +6,15 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        self.good_counts = 0
+        self.good_count = 0
 
         def dfs(node, max_so_far):
-
             if not node:
                 return
 
             if node.val >= max_so_far:
-                self.good_counts += 1
-
-            max_so_far = max(max_so_far, node.val)
+                self.good_count += 1
+                max_so_far = node.val
 
             if node.left:
                 dfs(node.left, max_so_far)
@@ -24,4 +22,4 @@ class Solution:
                 dfs(node.right, max_so_far)
 
         dfs(root, float('-inf'))
-        return self.good_counts
+        return self.good_count
