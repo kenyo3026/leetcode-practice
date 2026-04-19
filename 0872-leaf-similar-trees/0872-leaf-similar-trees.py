@@ -6,15 +6,21 @@
 #         self.right = right
 class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
+        leaf_values_of_root1 = []
+        leaf_values_of_root2 = []
 
-        def dfs(root):
+        def dfs(node, leaf_values):
+            if not node:
+                return
 
-            if not root:
-                return []
+            if not node.left and not node.right:
+                leaf_values.append(node.val)
 
-            if not root.left and not root.right:
-                return [root.val]
+            if node.left:
+                dfs(node.left, leaf_values)
+            if node.right:
+                dfs(node.right, leaf_values)
 
-            return dfs(root.left) + dfs(root.right)
-
-        return dfs(root1) == dfs(root2)
+        dfs(root1, leaf_values_of_root1)
+        dfs(root2, leaf_values_of_root2)
+        return leaf_values_of_root1 == leaf_values_of_root2
