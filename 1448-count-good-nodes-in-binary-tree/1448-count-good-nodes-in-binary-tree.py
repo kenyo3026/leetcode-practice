@@ -16,10 +16,8 @@ class Solution:
                 self.good_count += 1
                 max_so_far = node.val
 
-            if node.left:
-                dfs(node.left, max_so_far)
-            if node.right:
-                dfs(node.right, max_so_far)
+            dfs(node.left, max_so_far)
+            dfs(node.right, max_so_far)
 
         dfs(root, float('-inf'))
         return self.good_count
