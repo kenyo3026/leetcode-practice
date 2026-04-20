@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
+| [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/kenyo3026/leetcode-practice/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kenyo3026/leetcode-practice/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
