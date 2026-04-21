@@ -11,7 +11,6 @@ class Solution:
             if char in hashmap.keys():
                 if stack and stack[-1] == hashmap[char]:
                     stack.pop()
-                    continue
                 else:
                     return False
 
