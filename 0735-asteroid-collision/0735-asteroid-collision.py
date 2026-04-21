@@ -5,17 +5,15 @@ class Solution:
         for asteroid in asteroids:
 
             while stack and asteroid != None and \
-                (stack[-1] > 0) and (asteroid < 0):
-                    a = abs(stack[-1])
-                    b = abs(asteroid)
+                asteroid < 0 < stack[-1]:
 
-                    if a == b:
-                        stack.pop()
-                        asteroid = None
-                    elif a > b:
-                        asteroid = None
-                    elif a < b:
-                        stack.pop()
+                if stack[-1] == -asteroid:
+                    stack.pop()
+                    asteroid = None
+                elif stack[-1] > -asteroid:
+                    asteroid = None
+                elif stack[-1] < -asteroid:
+                    stack.pop()
 
             if asteroid:
                 stack.append(asteroid)
