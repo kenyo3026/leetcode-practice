@@ -8,13 +8,13 @@ class Solution:
             if char in hashmap.values():
                 stack.append(char)
 
-            elif stack and char in hashmap.keys():
-                if stack[-1] != hashmap[char]:
-                    return False
+            elif char in hashmap.keys():
+                if stack:
+                    if stack[-1] != hashmap[char]:
+                        return False
+                    else:
+                        stack.pop()
                 else:
-                    stack.pop()
-
-            elif not stack and char in hashmap.keys():
-                return False
+                    return False
 
         return len(stack) == 0
