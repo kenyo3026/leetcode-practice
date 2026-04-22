@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kenyo3026/leetcode-practice/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/kenyo3026/leetcode-practice/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/kenyo3026/leetcode-practice/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
