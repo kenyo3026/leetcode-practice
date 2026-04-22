@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/kenyo3026/leetcode-practice/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kenyo3026/leetcode-practice/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
