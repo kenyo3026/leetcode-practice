@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -288,11 +290,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kenyo3026/leetcode-practice/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
