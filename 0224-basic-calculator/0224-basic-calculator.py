@@ -27,7 +27,6 @@ class Solution:
 
                 elif token == '(':
                     num, idx = _calc(s, idx + 1)
-                    # idx -= 1
 
                 elif token == ')':
                     total += sign * num
