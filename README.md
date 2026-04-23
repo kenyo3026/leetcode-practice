@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -293,10 +294,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
