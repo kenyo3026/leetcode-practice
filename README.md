@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kenyo3026/leetcode-practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/kenyo3026/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/kenyo3026/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kenyo3026/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
