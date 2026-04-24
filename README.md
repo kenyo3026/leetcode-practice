@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 ## Design
 |  |
