@@ -3,17 +3,15 @@ class Solution:
         if not s:
             return True
 
-        ls, lt = len(s), len(t)
-        slow, fast = 0, 0
+        sl, tl = len(s), len(t)
+        slow = 0
 
-        while fast < lt:
+        for fast in range(tl):
 
-            if s[slow] == t[fast]:
+            if t[fast] == s[slow]:
                 slow += 1
 
-            if slow == ls:
+            if slow == sl:
                 return True
-
-            fast += 1
 
         return False
