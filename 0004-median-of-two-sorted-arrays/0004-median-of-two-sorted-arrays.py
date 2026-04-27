@@ -9,7 +9,7 @@ class Solution:
 
         while left_left <= left_right:
             i = (left_left + left_right) // 2
-            j = left_length - i
+            j = left_length - i # 左半部 = nums1 貢獻 i 個 + nums2 貢獻 j 個
 
             nums1_max_left  = nums1[i-1] if i > 0 else float('-inf')
             nums1_min_right = nums1[i]   if i < m else float('inf')
