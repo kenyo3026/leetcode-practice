@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kenyo3026/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Topological Sort
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kenyo3026/leetcode-practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kenyo3026/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -357,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
