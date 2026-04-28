@@ -1,9 +1,9 @@
 class Solution:
     def minReorder(self, n: int, connections: List[List[int]]) -> int:
-        edges = {(u, v) for u, v in connections}
         visited = set()
         self.need_flips = 0
 
+        edges = {(u, v) for u, v in connections}
         graphs = {}
         for u, v in edges:
             graphs[u] = graphs.get(u, [])
@@ -12,7 +12,6 @@ class Solution:
             graphs[v].append(u)
 
         def dfs(city):
-
             visited.add(city)
 
             for neighbor in graphs[city]:
@@ -22,7 +21,7 @@ class Solution:
 
                 if not (neighbor, city) in edges:
                     self.need_flips += 1
-
+            
                 dfs(neighbor)
 
         dfs(0)
