@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
 | [0283-move-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kenyo3026/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kenyo3026/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/kenyo3026/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/kenyo3026/leetcode-practice/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
 | [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kenyo3026/leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/kenyo3026/leetcode-practice/tree/master/0322-coin-change) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
 ## Shortest Path
