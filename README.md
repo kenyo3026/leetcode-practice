@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kenyo3026/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kenyo3026/leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/kenyo3026/leetcode-practice/tree/master/0221-maximal-square) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kenyo3026/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kenyo3026/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
