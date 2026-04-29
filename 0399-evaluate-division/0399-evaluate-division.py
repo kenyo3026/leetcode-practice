@@ -27,11 +27,10 @@ class Solution:
                 value = dfs(factor, denom, visited)
                 if value != -1:
                     return graphs[numer][factor] * value
-    
+
             return -1
 
         res = []
         for numer, denom in queries:
             res.append(dfs(numer, denom, set()))
-
         return res
