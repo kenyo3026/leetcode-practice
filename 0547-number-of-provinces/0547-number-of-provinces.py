@@ -1,26 +1,21 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        visited = set()
         n = len(isConnected)
-        provinces_so_far = 0
+        visited = set()
+        province_so_far = 0
 
         def dfs(city_id):
             visited.add(city_id)
 
-            for neighbor_city_id in range(n):
+            for neighbor_id in range(n):
+                _is_connected = isConnected[city_id][neighbor_id]
 
-                if neighbor_city_id == city_id:
-                    continue
+                if _is_connected and not neighbor_id in visited:
+                    dfs(neighbor_id)
 
-                if neighbor_city_id in visited:
-                    continue
+        for city_id in range(n):
+            if not city_id in visited:
+                province_so_far += 1
+                dfs(city_id)
 
-                if isConnected[city_id][neighbor_city_id] == 1:
-                    dfs(neighbor_city_id)
-
-        for i in range(n):
-            if not i in visited:
-                provinces_so_far += 1
-                dfs(i)
-
-        return provinces_so_far
+        return province_so_far
