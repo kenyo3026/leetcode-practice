@@ -4,5 +4,5 @@ class Solution:
         heapq.heapify(nums)
 
         for i in range(k):
-            res = heapq.heappop(nums)
-        return -res
+            num = heapq.heappop(nums)
+        return -num
