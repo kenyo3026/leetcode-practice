@@ -7,7 +7,7 @@ class Solution:
         heapq.heapify(heap)
 
         while heap and len(k_smallest) < k:
-            _, i, j = heapq.heappop(heap)
+            _sum, i, j = heapq.heappop(heap)
             k_smallest.append([nums1[i], nums2[j]])
 
             if i + 1 < n1:
