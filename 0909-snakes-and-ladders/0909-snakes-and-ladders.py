@@ -1,23 +1,23 @@
 class Solution:
     def snakesAndLadders(self, board: List[List[int]]) -> int:
-        n = len(board[0])
+        n = len(board)
         des = n * n
 
         def get_zigzag_coord(pos:int):
-            row, col = (pos-1) // n, (pos-1) % n
-            col = col if row % 2 == 0 else n - 1 - col
-            row = n - 1 - row
-            return row, col
+            row, col = (pos - 1) // n, (pos - 1) % n
+            return (
+                n - 1 - row,
+                col if row % 2 == 0 else n - 1 - col
+            )
 
         pos, step = 1, 1
         queue = deque([(pos, step)])
-        visited = set([pos])
+        visited = set()
         while queue:
-            curr_pos, step = queue.popleft()
+            pos, step = queue.popleft()
 
             for i in range(1, 7):
-                next_pos = curr_pos + i
-
+                next_pos = pos + i
                 row, col = get_zigzag_coord(next_pos)
 
                 if board[row][col] != -1:
