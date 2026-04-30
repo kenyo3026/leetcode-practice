@@ -1,13 +1,9 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-
         graphs = [[] for _ in range(numCourses)]
         for course, prereq in prerequisites:
             graphs[prereq].append(course)
 
-        # 0 = unvisited
-        # 1 = visiting (currently in DFS stack)
-        # 2 = visited (fully processed, no cycle)
         states = [0] * numCourses
 
         def dfs(course):
