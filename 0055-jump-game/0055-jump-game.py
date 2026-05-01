@@ -10,4 +10,7 @@ class Solution:
 
             reach_so_far = max(reach_so_far, i + nums[i])
 
+            if reach_so_far == n:
+                return True
+
         return True
