@@ -1,6 +1,6 @@
 class Solution:
     def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
-        capital_min_heap = [(cap, pro) for pro, cap in zip(profits, capital)]
+        capital_min_heap = [(cap, pro) for cap, pro in zip(capital, profits)]
         heapq.heapify(capital_min_heap)
 
         profit_max_heap = []
@@ -13,6 +13,6 @@ class Solution:
             if not profit_max_heap:
                 break
 
-            w -= heapq.heappop(profit_max_heap)
+            w += -heapq.heappop(profit_max_heap)
 
         return w
