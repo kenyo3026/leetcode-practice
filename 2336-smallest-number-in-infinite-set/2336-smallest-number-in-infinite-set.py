@@ -12,7 +12,7 @@ class SmallestInfiniteSet:
             return self.i - 1
 
     def addBack(self, num: int) -> None:
-        if num < self.i and not num in self.add_heap:
+        if num < self.i and not num in set(self.add_heap):
             heapq.heappush(self.add_heap, num)
         
 
