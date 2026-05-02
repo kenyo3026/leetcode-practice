@@ -6,4 +6,4 @@ class Solution:
         if hash_for_count1.keys() != hash_for_count2.keys():
             return False
 
-        return Counter(hash_for_count1.values()) == Counter(hash_for_count2.values())
+        return sorted(hash_for_count1.values()) == sorted(hash_for_count2.values())
