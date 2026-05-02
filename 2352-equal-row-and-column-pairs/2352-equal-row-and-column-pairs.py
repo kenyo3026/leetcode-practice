@@ -1,11 +1,8 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
-        row_count = Counter(tuple(row) for row in grid)
+        row_stat = Counter(tuple(row) for row in grid)
 
-        result = 0
-        n = len(grid)
-        for col in range(n):
-            column = tuple(grid[row][col] for row in range(n))
-            result += row_count[column]
-        
-        return result
+        found = 0
+        for col in zip(*grid):
+            found += row_stat.get(col, 0)
+        return found
