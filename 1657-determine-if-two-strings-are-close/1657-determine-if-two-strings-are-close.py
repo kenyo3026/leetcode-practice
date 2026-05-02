@@ -6,4 +6,7 @@ class Solution:
         hash_for_count1 = Counter(word1)
         hash_for_count2 = Counter(word2)
 
+        if hash_for_count1.keys() != hash_for_count2.keys():
+            return False
+
         return sorted(hash_for_count1.values()) == sorted(hash_for_count2.values())
