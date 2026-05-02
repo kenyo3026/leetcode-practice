@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kenyo3026/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/kenyo3026/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kenyo3026/leetcode-practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0063-unique-paths-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/kenyo3026/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/kenyo3026/leetcode-practice/tree/master/0072-edit-distance) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/kenyo3026/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kenyo3026/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
