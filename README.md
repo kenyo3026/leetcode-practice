@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kenyo3026/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/kenyo3026/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kenyo3026/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kenyo3026/leetcode-practice/tree/master/0290-word-pattern) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kenyo3026/leetcode-practice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/kenyo3026/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kenyo3026/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kenyo3026/leetcode-practice/tree/master/0290-word-pattern) |
