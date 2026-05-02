@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kenyo3026/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/kenyo3026/leetcode-practice/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kenyo3026/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kenyo3026/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
