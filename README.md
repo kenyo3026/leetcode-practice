@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 ## String
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kenyo3026/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Memoization
