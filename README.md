@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/kenyo3026/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kenyo3026/leetcode-practice/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/kenyo3026/leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kenyo3026/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kenyo3026/leetcode-practice/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/kenyo3026/leetcode-practice/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [1207-unique-number-of-occurrences](https://github.com/kenyo3026/leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kenyo3026/leetcode-practice/tree/master/0383-ransom-note) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Ordered Set
 |  |
