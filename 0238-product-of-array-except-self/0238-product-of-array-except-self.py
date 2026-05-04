@@ -7,8 +7,6 @@ class Solution:
         for i in range(1, n):
             prefix_sums[i] = prefix_sums[i-1] * nums[i-1]
 
-        # for i in range(n-2, -1, -1):
-        for i in range(1, n):
             i = n - 1 - i
             suffix_sums[i] = suffix_sums[i+1] * nums[i+1]
 
