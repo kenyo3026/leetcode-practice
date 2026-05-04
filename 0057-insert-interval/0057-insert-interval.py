@@ -8,8 +8,7 @@ class Solution:
             inserted.append(intervals[i])
             i += 1
 
-        while i < n and (intervals[i][1] >= newInterval[0] and \
-            intervals[i][0] <= newInterval[1]):
+        while i < n and not intervals[i][0] > newInterval[1]:
             newInterval = [
                 min(intervals[i][0], newInterval[0]),
                 max(intervals[i][1], newInterval[1]),
