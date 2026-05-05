@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 ## Monotonic Stack
@@ -486,5 +488,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
