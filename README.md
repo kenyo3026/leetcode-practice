@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kenyo3026/leetcode-practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/kenyo3026/leetcode-practice/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/kenyo3026/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kenyo3026/leetcode-practice/tree/master/0169-majority-element) |
@@ -491,5 +492,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/kenyo3026/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/kenyo3026/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
