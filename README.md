@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kenyo3026/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
 ## Monotonic Stack
@@ -489,5 +490,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/kenyo3026/leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
