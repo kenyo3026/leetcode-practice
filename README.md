@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kenyo3026/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kenyo3026/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kenyo3026/leetcode-practice/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kenyo3026/leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kenyo3026/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/kenyo3026/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kenyo3026/leetcode-practice/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
