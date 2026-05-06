@@ -15,8 +15,7 @@ class Solution:
 
             if not (0 <= nx < rows and 0 <= ny < cols and not (nx, ny) in visited):
                 d = (d + 1) % len(dirs)
-                nx, ny = x + dirs[d][0], y + dirs[d][1]
 
-            x, y = nx, ny
+            x, y = x + dirs[d][0], y + dirs[d][1]
 
         return res
