@@ -6,6 +6,7 @@ class Solution:
         found_so_far = 0
 
         def bfs(x, y):
+            grid[x][y] = "0"
             queue = deque([(x, y)])
             visited.add((x, y))
 
