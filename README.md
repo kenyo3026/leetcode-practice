@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kenyo3026/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/kenyo3026/leetcode-practice/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kenyo3026/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Hash Table
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kenyo3026/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 ## Shortest Path
 |  |
 | ------- |
