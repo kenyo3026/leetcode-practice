@@ -39,7 +39,7 @@ class Solution:
         for layer in range(min(m, n) // 2):
             vector = extract_layer(layer)
             _k = k % len(vector)
-            vector = vector[_k:] + vector[:_k]
+            vector[-_k:], vector[:-_k] = vector[:_k], vector[_k:]
 
             apply_layer(layer, vector)
 
