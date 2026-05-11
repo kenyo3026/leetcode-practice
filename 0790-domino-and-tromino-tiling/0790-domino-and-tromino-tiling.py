@@ -7,14 +7,9 @@ class Solution:
 
         full[0] = 1
         full[1] = 1
-        # part[1] = 0
 
         for i in range(2, n + 1):
-            part[i] = (full[i - 2] + part[i - 1]) % MOD
-            full[i] = (
-                full[i - 1]
-                + full[i - 2]
-                + 2 * part[i - 1]
-            ) % MOD
+            part[i] = (full[i-2] + part[i-1]) % MOD
+            full[i] = (full[i-1] + full[i-2] + 2 * part[i-1]) % MOD
 
         return full[n]
