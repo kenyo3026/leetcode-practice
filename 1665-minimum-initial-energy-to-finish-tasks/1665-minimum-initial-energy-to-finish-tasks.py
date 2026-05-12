@@ -1,16 +1,17 @@
-import heapq
-
 class Solution:
     def minimumEffort(self, tasks: List[List[int]]) -> int:
-        heap = [(-(m - a), a, m) for a, m in tasks]
-        heapq.heapify(heap)
+        tasks.sort(key=lambda x: x[1]-x[0], reverse=True)
 
-        consumed = 0
-        min_initial = 0
+        total_energy_consumed_so_far = 0
+        min_initial_energy_so_far = 0
 
-        while heap:
-            _, actual, minimum = heapq.heappop(heap)
-            consumed += actual
-            min_initial = max(min_initial, consumed - actual + minimum)
+        for actual, minimum in tasks:
+            buffer = minimum - actual
 
-        return min_initial
+            total_energy_consumed_so_far += actual
+            min_initial_energy_so_far = max(
+                min_initial_energy_so_far,
+                total_energy_consumed_so_far + buffer,
+            )
+
+        return min_initial_energy_so_far
