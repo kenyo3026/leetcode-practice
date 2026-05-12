@@ -3,10 +3,9 @@ class Solution:
         n = len(nums)
         dp = [1] * n
 
-        for i in range(n):
-            smallers = [dp[j] for j in range(i) if nums[j] < nums[i]]
-            if smallers:
-                dp[i] = max(smallers) + 1
+        for j in range(n):
+            for i in range(j):
+                if nums[i] < nums[j]:
+                    dp[j] = max(dp[j], dp[i]+1)
 
         return max(dp)
-        
