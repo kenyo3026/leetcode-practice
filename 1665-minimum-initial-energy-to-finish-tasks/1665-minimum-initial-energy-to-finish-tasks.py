@@ -3,14 +3,15 @@ class Solution:
         tasks.sort(key=lambda x: x[1]-x[0], reverse=True)
 
         total_energy_consumed_so_far = 0
-        min_energy_so_far = 0
+        min_initial_energy_so_far = 0
 
-        for i in range(len(tasks)):
-            actual = tasks[i][0]
-            minimum = tasks[i][1]
+        for actual, minimum in tasks:
             buffer = minimum - actual
 
             total_energy_consumed_so_far += actual
-            min_energy_so_far = max(min_energy_so_far, total_energy_consumed_so_far + buffer)
+            min_initial_energy_so_far = max(
+                min_initial_energy_so_far,
+                total_energy_consumed_so_far + buffer,
+            )
 
-        return min_energy_so_far
+        return min_initial_energy_so_far
