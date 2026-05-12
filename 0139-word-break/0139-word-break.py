@@ -9,5 +9,6 @@ class Solution:
             for i in segpoints:
                 if s[i:j] in wordDict:
                     dp[j] = True
+                    break
 
         return dp[-1]
