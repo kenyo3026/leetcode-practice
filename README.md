@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/kenyo3026/leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
+| [1306-jump-game-iii](https://github.com/kenyo3026/leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kenyo3026/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/kenyo3026/leetcode-practice/tree/master/0872-leaf-similar-trees) |
+| [1306-jump-game-iii](https://github.com/kenyo3026/leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/kenyo3026/leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/kenyo3026/leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
