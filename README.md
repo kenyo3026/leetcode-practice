@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kenyo3026/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kenyo3026/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
 ## Topological Sort
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/kenyo3026/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
 ## Union-Find
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kenyo3026/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
 ## Design
 |  |
 | ------- |
