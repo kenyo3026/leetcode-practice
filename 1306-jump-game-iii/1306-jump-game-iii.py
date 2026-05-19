@@ -5,15 +5,14 @@ class Solution:
         visited = {start}
 
         while queue:
-            idx = queue.popleft()
+            i = queue.popleft()
 
-            if arr[idx] == 0:
+            if arr[i] == 0:
                 return True
 
-            for next_idx in (idx - arr[idx], idx + arr[idx]):
-
-                if (0 <= next_idx < n) and not next_idx in visited:
-                    queue.append(next_idx)
-                    visited.add(next_idx)
+            for ni in [i+arr[i], i-arr[i]]:
+                if 0 <= ni < n and not ni in visited:
+                    queue.append(ni)
+                    visited.add(ni)
 
         return False
