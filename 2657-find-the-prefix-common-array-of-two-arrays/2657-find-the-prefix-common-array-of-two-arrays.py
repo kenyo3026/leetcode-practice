@@ -8,7 +8,7 @@ class Solution:
             A_set.add(a)
             B_set.add(b)
 
-            same = i - len(A_set - B_set)
+            same = len(A_set & B_set)
             C.append(same)
 
         return C
