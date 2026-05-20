@@ -2,11 +2,11 @@ class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
         A_set, B_set = set(), set()
         C = []
-        n = len(A_set)
+        n = len(A)
 
-        for i, (a, b) in enumerate(zip(A, B), 1):
-            A_set.add(a)
-            B_set.add(b)
+        for i in range(n):
+            A_set.add(A[i])
+            B_set.add(B[i])
 
             same = len(A_set & B_set)
             C.append(same)
