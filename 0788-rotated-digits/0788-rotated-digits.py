@@ -7,8 +7,8 @@ class Solution:
         for num in range(1, n+1):
             mask = 0
             while num != 0:
-                num, mod = num / 10, int(num % 10)
-                mask |= (1 << mod)
+                mask |= (1 << num % 10)
+                num //= 10
 
             if not (mask & bad_mask) and (mask & good_mask):
                 good_found += 1
