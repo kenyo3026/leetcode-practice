@@ -6,8 +6,9 @@ class Solution:
         good_found = 0
         for num in range(1, n+1):
             mask = 0
-            for char in str(num):
-                mask |= (1 << int(char))
+            while num != 0:
+                num, mod = num / 10, int(num % 10)
+                mask |= (1 << mod)
 
             if not (mask & bad_mask) and (mask & good_mask):
                 good_found += 1
