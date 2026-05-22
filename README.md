@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kenyo3026/leetcode-practice/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/kenyo3026/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/kenyo3026/leetcode-practice/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/kenyo3026/leetcode-practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/kenyo3026/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kenyo3026/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/kenyo3026/leetcode-practice/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/kenyo3026/leetcode-practice/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kenyo3026/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
