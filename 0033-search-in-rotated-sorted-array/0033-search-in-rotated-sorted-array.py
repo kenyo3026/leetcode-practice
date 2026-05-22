@@ -7,7 +7,6 @@ class Solution:
 
             if nums[mid] == target:
                 return mid
-
             elif nums[left] <= nums[mid]:
                 if nums[left] <= target < nums[mid]:
                     right = mid - 1
