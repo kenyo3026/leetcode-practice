@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
+| [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -566,4 +567,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kenyo3026/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/0206-reverse-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
