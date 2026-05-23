@@ -8,9 +8,9 @@ class Solution:
         if not head or not head.next:
             return head
 
-        n = 1
+        n = 0
         node = head
-        while node.next:
+        while node:
             n += 1
             node = node.next
 
@@ -18,16 +18,17 @@ class Solution:
         if k == 0:
             return head
 
-        slow, fast = head, head
-        for _ in range(k):
+        fast = head
+        for i in range(k):
             fast = fast.next
 
+        slow = head
         while fast.next:
             slow = slow.next
             fast = fast.next
 
-        head_new = slow.next
+        new_head = slow.next
         slow.next = None
         fast.next = head
 
-        return head_new
+        return new_head
