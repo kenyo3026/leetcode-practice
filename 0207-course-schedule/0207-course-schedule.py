@@ -14,8 +14,8 @@ class Solution:
 
             states[course] = 1
 
-            for neighbor in graph[course]:
-                if not dfs(neighbor):
+            for prereq in graph[course]:
+                if not dfs(prereq):
                     return False
 
             states[course] = 2
