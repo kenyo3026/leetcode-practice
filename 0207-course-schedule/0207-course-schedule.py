@@ -1,27 +1,23 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graphs = [[] for _ in range(numCourses)]
-        for course, prereq in prerequisites:
-            graphs[prereq].append(course)
+        in_degress = [0 for i in range(numCourses)]
+        graph = [[] for i in range(numCourses)]
 
-        states = [0] * numCourses
+        for prereq, course in prerequisites:
+            in_degress[course] += 1
+            graph[prereq].append(course)
 
-        def dfs(course):
-            if states[course] == 1:
-                return False
-            if states[course] == 2:
-                return True
+        topos = []
+        queue = deque([i for i in range(numCourses) if in_degress[i] == 0])
 
-            states[course] = 1
+        while queue:
+            prereq = queue.popleft()
+            topos.append(prereq)
 
-            for neighbor in graphs[course]:
-                if not dfs(neighbor):
-                    return False
+            for course in graph[prereq]:
+                in_degress[course] -= 1
 
-            states[course] = 2
-            return True
+                if in_degress[course] == 0:
+                    queue.append(course)
 
-        for course in range(numCourses):
-            if not dfs(course):
-                return False
-        return True
+        return topos.__len__() == numCourses
