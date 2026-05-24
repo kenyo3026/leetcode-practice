@@ -1,27 +1,20 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        in_degree = [0 for i in range(numCourses)]
         graph = [[] for i in range(numCourses)]
         for prereq, course in prerequisites:
-            graph[course].append(prereq)
+            in_degree[course] += 1
+            graph[prereq].append(course)
 
-        states = [0] * numCourses
+        topo_count = 0
+        queue = deque([course for course in range(numCourses) if in_degree[course] == 0])
+        while queue:
+            prereq = queue.popleft()
+            topo_count += 1
 
-        def dfs(course):
-            if states[course] == 1:
-                return False
-            elif states[course] == 2:
-                return True
+            for course in graph[prereq]:
+                in_degree[course] -= 1
+                if in_degree[course] == 0:
+                    queue.append(course)
 
-            states[course] = 1
-
-            for prereq in graph[course]:
-                if not dfs(prereq):
-                    return False
-
-            states[course] = 2
-            return True            
-
-        for course in range(numCourses):
-            if not dfs(course):
-                return False
-        return True
+        return topo_count == numCourses
