@@ -1,7 +1,7 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        graph = [[] for _ in range(numCourses)]
-        for course, prereq in prerequisites:
+        graph = [[] for i in range(numCourses)]
+        for prereq, course in prerequisites:
             graph[course].append(prereq)
 
         states = [0] * numCourses
@@ -19,7 +19,7 @@ class Solution:
                     return False
 
             states[course] = 2
-            return True
+            return True            
 
         for course in range(numCourses):
             if not dfs(course):
