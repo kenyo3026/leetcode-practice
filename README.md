@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
+| [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/kenyo3026/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kenyo3026/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/kenyo3026/leetcode-practice/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kenyo3026/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kenyo3026/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 ## Linked List
 |  |
 | ------- |
