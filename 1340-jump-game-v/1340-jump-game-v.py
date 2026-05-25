@@ -3,8 +3,7 @@ class Solution:
         n = len(arr)
         dp = [1] * n
 
-        idxes = sorted(range(n), key=lambda x: arr[x])
-
+        idxes = sorted(range(n), key=lambda i: arr[i])
         for i in idxes:
 
             for j in range(i+1, min(n, i+d+1)):
@@ -18,6 +17,5 @@ class Solution:
                     dp[i] = max(dp[i], dp[j]+1)
                 else:
                     break
-
 
         return max(dp)
