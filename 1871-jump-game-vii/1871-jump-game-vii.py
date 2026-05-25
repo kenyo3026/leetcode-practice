@@ -12,10 +12,10 @@ class Solution:
             if i == n - 1:
                 return True
 
-            start = max(i + minJump, visited + 1)
-            end = min(i + maxJump, n - 1)
+            start = max(i + minJump, visited)
+            end = min(i + maxJump + 1, n)
 
-            queue.extend([i for i in range(start, end + 1) if s[i] == '0'])
+            queue.extend([i for i in range(start, end) if s[i] == '0'])
 
             visited = max(visited, end)
 
