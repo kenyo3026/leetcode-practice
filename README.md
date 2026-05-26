@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/kenyo3026/leetcode-practice/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Topological Sort
 |  |
 | ------- |
