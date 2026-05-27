@@ -3,10 +3,7 @@ class Solution:
         stats = {}
         for char in word:
             if char.islower():
-                if not char in stats:
-                    stats[char] = 1
-                else:
-                    stats[char] += 1
+                stats[char] = stats.get(char, 0) + 1
 
         founds = 0
         for char in word:
