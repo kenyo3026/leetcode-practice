@@ -8,7 +8,10 @@ class Solution:
         founds = 0
         for char in word:
             if char.islower():
+                if stats[char] == -1:
+                    continue
                 stats[char] -= 1
+
             elif char.isupper():
                 char_lower = char.lower()
                 if stats.get(char_lower, -1) == 0:
