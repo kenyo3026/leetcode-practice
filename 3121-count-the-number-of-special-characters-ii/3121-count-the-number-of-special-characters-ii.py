@@ -8,16 +8,16 @@ class Solution:
                 else:
                     stats[char] += 1
 
-        print(stats)
         founds = 0
         for char in word:
             if char.islower():
                 stats[char] -= 1
             elif char.isupper():
-                if stats.get(char.lower(), -1) == 0:
+                char_lower = char.lower()
+                if stats.get(char_lower, -1) == 0:
                     founds += 1
-                    stats[char.lower()] = -1
+                    stats[char_lower] = -1
                 else:
-                    stats[char.lower()] = -1
+                    stats[char_lower] = -1
 
         return founds
