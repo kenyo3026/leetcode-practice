@@ -7,9 +7,10 @@ class Solution:
 
         founds = 0
         for char in word:
+            if stats.get(char) == -1:
+                continue
+
             if char.islower():
-                if stats[char] == -1:
-                    continue
                 stats[char] -= 1
 
             elif char.isupper():
