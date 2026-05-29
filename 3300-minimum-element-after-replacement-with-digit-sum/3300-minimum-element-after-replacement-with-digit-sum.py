@@ -1,11 +1,13 @@
 class Solution:
     def minElement(self, nums: List[int]) -> int:
-        replaced = []
+        min_replaced = float('inf')
         for num in nums:
-            replace = 0
+            replaced = 0
             while num != 0:
                 num, mod = num //10, num % 10
-                replace += mod
-            replaced.append(replace)
+                replaced += mod
 
-        return min(replaced)
+            if min_replaced > replaced:
+                min_replaced = replaced
+
+        return min_replaced
