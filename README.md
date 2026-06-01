@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kenyo3026/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2126-destroying-asteroids](https://github.com/kenyo3026/leetcode-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kenyo3026/leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/kenyo3026/leetcode-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kenyo3026/leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 | [2784-check-if-array-is-good](https://github.com/kenyo3026/leetcode-practice/tree/master/2784-check-if-array-is-good) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/kenyo3026/leetcode-practice/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kenyo3026/leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
 ## Stack
 |  |
