@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/kenyo3026/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/kenyo3026/leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [1306-jump-game-iii](https://github.com/kenyo3026/leetcode-practice/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kenyo3026/leetcode-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/kenyo3026/leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
 | [3161-block-placement-queries](https://github.com/kenyo3026/leetcode-practice/tree/master/3161-block-placement-queries) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/kenyo3026/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kenyo3026/leetcode-practice/tree/master/0502-ipo) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kenyo3026/leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kenyo3026/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/kenyo3026/leetcode-practice/tree/master/0502-ipo) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kenyo3026/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/kenyo3026/leetcode-practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kenyo3026/leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
