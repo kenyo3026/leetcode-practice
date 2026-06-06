@@ -4,11 +4,11 @@ class Solution:
 
         while left < right:
 
-            if not s[left].isalpha() and not s[left].isdigit():
+            if not s[left].isalnum():
                 left += 1
                 continue
 
-            if not s[right].isalpha() and not s[right].isdigit():
+            if not s[right].isalnum():
                 right -= 1
                 continue
 
