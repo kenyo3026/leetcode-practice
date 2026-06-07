@@ -23,4 +23,6 @@ class Solution:
 
             child_set.add(child)
 
-        return tree_dict[next(iter(tree_dict.keys() - child_set))]
+        for node_val in tree_dict:
+            if not node_val in child_set:
+                return tree_dict[node_val]
