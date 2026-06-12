@@ -17,6 +17,6 @@ class Solution:
             return max_depth
 
         k = dfs(1, 0, 0)
-        return 2 ** (k - 1) % mod
+        return pow(2, k - 1, mod)
 
 
