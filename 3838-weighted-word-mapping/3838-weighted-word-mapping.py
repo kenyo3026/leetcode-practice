@@ -9,7 +9,7 @@ class Solution:
                 w = weights[idx]
                 wc += w
             wc %= 26
-            wc = 26 - wc - 1
-            weighted_word += chr(ord('a') + wc)
+            wc = 26 - wc
+            weighted_word += chr(ord('a') + (wc - 1))
 
         return weighted_word
