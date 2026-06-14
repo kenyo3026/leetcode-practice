@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/kenyo3026/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/kenyo3026/leetcode-practice/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kenyo3026/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/kenyo3026/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/kenyo3026/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/0206-reverse-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
