@@ -8,13 +8,12 @@ class Solution:
         if not head or not head.next:
             return None
 
-        slow_prev, slow, fast = head, head, head
+        slow, fast = head, head.next.next
 
         while fast and fast.next:
             fast = fast.next.next
-            slow_prev = slow
             slow = slow.next
 
-        slow_prev.next = slow.next
+        slow.next = slow.next.next
 
         return head
