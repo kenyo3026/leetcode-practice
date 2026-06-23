@@ -8,11 +8,5 @@ class Solution:
         minutes_cursor = minutes
         minutes_angle = (minutes_cursor / 60) * 360
 
-        print(hour_angle, minutes_angle)
-
-        # if hour_angle > minutes_angle:
-        #     return hour_angle - minutes_angle
-        # else:
-        #     return minutes_angle - hour_angle
         angle = abs(hour_angle - minutes_angle)
         return min(angle, 360 - angle)
