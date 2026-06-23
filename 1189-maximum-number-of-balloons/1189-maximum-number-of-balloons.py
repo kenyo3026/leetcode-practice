@@ -8,7 +8,7 @@ class Solution:
                 hash[char] += 1
 
         max_num = float('inf')
-        for char, value in hash.items():
+        for char in hash:
             max_num = min(max_num, hash[char] // needed[char])
 
         return max_num
