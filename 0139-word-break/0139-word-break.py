@@ -1,14 +1,13 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        wordDict = set(wordDict)
         n = len(s)
-        dp = [True] + [False] * n
+        word_set = set(wordDict)
+        dp = [False] * (n + 1)
+        dp[0] = True
 
-        for j in range(n+1):
-            segpoints = [i for i in range(j) if dp[i]==True]
-            for i in segpoints:
-                if s[i:j] in wordDict:
-                    dp[j] = True
-                    break
+        for i in range(n):
+            for j in range(i+1):
+                if dp[j] == True and s[j:i+1] in word_set:
+                    dp[i+1] = True
 
         return dp[-1]
