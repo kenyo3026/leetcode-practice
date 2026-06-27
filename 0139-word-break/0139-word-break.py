@@ -6,7 +6,7 @@ class Solution:
 
         for j in range(n+1):
             for i in range(j):
-                if s[i:j] in word_set and dp[i] == True:
+                if dp[i] == True and s[i:j] in word_set:
                     dp[j] = True
 
         return dp[-1]
