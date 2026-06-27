@@ -4,7 +4,7 @@ class Solution:
         word_set = set(wordDict)
         dp = [True] + [False] * n
 
-        for j in range(n+1):
+        for j in range(1, n+1):
             for i in range(j):
                 if dp[i] == True and s[i:j] in word_set:
                     dp[j] = True
