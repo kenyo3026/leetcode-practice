@@ -2,12 +2,11 @@ class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         n = len(s)
         word_set = set(wordDict)
-        dp = [False] * (n + 1)
-        dp[0] = True
+        dp = [True] + [False] * n
 
-        for i in range(n):
-            for j in range(i+1):
-                if dp[j] == True and s[j:i+1] in word_set:
-                    dp[i+1] = True
+        for j in range(n+1):
+            for i in range(j):
+                if dp[i] == True and s[i:j] in word_set:
+                    dp[j] = True
 
         return dp[-1]
