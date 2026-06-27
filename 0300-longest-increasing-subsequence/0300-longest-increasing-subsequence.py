@@ -8,4 +8,4 @@ class Solution:
                 if nums[j] > nums[i]:
                     dp[j] = max(dp[j], dp[i]+1)
 
-        return dp[-1]
+        return max(dp)
