@@ -8,5 +8,6 @@ class Solution:
             for i in range(j):
                 if dp[i] == True and s[i:j] in word_set:
                     dp[j] = True
+                    break
 
         return dp[-1]
