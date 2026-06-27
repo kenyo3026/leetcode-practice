@@ -15,7 +15,6 @@ class Solution:
             else:
                 subset_len = 0
                 while x in counts:
-                    print(x)
                     if counts[x] >= 2:
                         subset_len += 2
                     elif counts[x] == 1:
