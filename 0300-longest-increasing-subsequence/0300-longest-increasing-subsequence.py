@@ -3,9 +3,9 @@ class Solution:
         n = len(nums)
         dp = [1] * n
 
-        for j in range(n):
+        for j in range(1, n):
             for i in range(j):
-                if nums[i] < nums[j]:
+                if nums[j] > nums[i]:
                     dp[j] = max(dp[j], dp[i]+1)
 
-        return max(dp)
+        return dp[-1]
