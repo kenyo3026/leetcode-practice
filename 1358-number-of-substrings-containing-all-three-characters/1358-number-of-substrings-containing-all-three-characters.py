@@ -8,7 +8,8 @@ class Solution:
         while right < n:
             count_hash[s[right]] += 1
 
-            while all(count_hash.values()):
+            # while all(count_hash.values()):
+            while count_hash["a"] > 0 and count_hash["b"] > 0 and count_hash["c"] > 0:
                 n_of_substrings += n - right
                 count_hash[s[left]] -= 1
                 left += 1
