@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/kenyo3026/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/kenyo3026/leetcode-practice/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/kenyo3026/leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kenyo3026/leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kenyo3026/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/2352-equal-row-and-column-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/kenyo3026/leetcode-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/kenyo3026/leetcode-practice/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/kenyo3026/leetcode-practice/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/kenyo3026/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kenyo3026/leetcode-practice/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/kenyo3026/leetcode-practice/tree/master/2542-maximum-subsequence-score) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
