@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenyo3026/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kenyo3026/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenyo3026/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/kenyo3026/leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenyo3026/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Hash Table
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/kenyo3026/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/kenyo3026/leetcode-practice/tree/master/0684-redundant-connection) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kenyo3026/leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
