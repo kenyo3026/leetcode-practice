@@ -9,16 +9,15 @@ class Solution:
 
         min_score = float('inf')
         queue = deque([1])
-        visited = set()
+        visited = {1}
         while queue:
             node = queue.popleft()
-            if node in visited:
-                continue
-
-            visited.add(node)
 
             for neighbor, dis in graph[node]:
                 min_score = min(min_score, dis)
-                queue.append(neighbor)
+
+                if not neighbor in visited:
+                    queue.append(neighbor)
+                    visited.add(neighbor)
 
         return min_score
