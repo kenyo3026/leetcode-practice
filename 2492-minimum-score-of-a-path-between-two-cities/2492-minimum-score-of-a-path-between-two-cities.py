@@ -1,10 +1,8 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
-        graph = {}
+        graph = defaultdict(list)
         for u, v, dis in roads:
-            graph[u] = graph.get(u, [])
             graph[u].append((v, dis))
-            graph[v] = graph.get(v, [])
             graph[v].append((u, dis))
 
         min_score = float('inf')
