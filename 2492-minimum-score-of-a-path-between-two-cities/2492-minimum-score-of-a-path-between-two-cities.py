@@ -1,6 +1,6 @@
 class Solution:
     def minScore(self, n: int, roads: List[List[int]]) -> int:
-        graph, graph_dis = {}, {}
+        graph = {}
         for u, v, dis in roads:
             graph[u] = graph.get(u, [])
             graph[u].append((v, dis))
@@ -20,6 +20,5 @@ class Solution:
             for neighbor, dis in graph[node]:
                 min_score = min(min_score, dis)
                 queue.append(neighbor)
-                # visited.add(neighbor)
 
         return min_score
