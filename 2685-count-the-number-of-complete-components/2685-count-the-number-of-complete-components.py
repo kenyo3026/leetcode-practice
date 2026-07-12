@@ -15,15 +15,6 @@ class Solution:
             if x_root != y_root:
                 parent[y_root] = x_root
 
-            # if x_root == y_root:
-            #     return
-            # # union by rank
-            # if rank[x_root] < rank[y_root]:
-            #     x_root, y_root = y_root, x_root
-            # parent[y_root] = x_root
-            # if rank[x_root] == rank[y_root]:
-            #     rank[x_root] += 1
-
         for u, v in edges:
             union(u, v)
             degree[u] += 1
