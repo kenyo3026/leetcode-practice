@@ -5,10 +5,9 @@ class Solution:
         degree = [0] * n
 
         def find(x: int) -> int:
-            while parent[x] != x:
-                parent[x] = parent[parent[x]]  # path compression
-                x = parent[x]
-            return x
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
 
         def union(x: int, y: int) -> None:
             root_x, root_y = find(x), find(y)
