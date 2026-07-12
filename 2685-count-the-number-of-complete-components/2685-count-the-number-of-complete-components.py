@@ -1,7 +1,7 @@
 class Solution:
     def countCompleteComponents(self, n: int, edges: list[list[int]]) -> int:
         parent = list(range(n))
-        # rank = [0] * n
+        rank = [0] * n
         degree = [0] * n
 
         def find(x: int) -> int:
@@ -12,16 +12,17 @@ class Solution:
         def union(x: int, y: int) -> None:
             x_root, y_root = find(x), find(y)
 
-            if x_root != y_root:
-                parent[y_root] = x_root
-            # if root_x == root_y:
-            #     return
-            # # union by rank
-            # if rank[root_x] < rank[root_y]:
-            #     root_x, root_y = root_y, root_x
-            # parent[root_y] = root_x
-            # if rank[root_x] == rank[root_y]:
-            #     rank[root_x] += 1
+            # if x_root != y_root:
+            #     parent[y_root] = x_root
+
+            if x_root == y_root:
+                return
+            # union by rank
+            if rank[x_root] < rank[y_root]:
+                x_root, y_root = y_root, x_root
+            parent[y_root] = x_root
+            if rank[x_root] == rank[y_root]:
+                rank[x_root] += 1
 
         for u, v in edges:
             union(u, v)
