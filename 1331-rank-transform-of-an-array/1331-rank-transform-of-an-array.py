@@ -3,9 +3,6 @@ class Solution:
         rank_at, ranks = 1, {}
 
         for num in sorted(list(set(arr))):
-            # if num in ranks:
-            #     continue
-
             ranks[num] = rank_at
             rank_at += 1
 
