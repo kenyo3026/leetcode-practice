@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/kenyo3026/leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/kenyo3026/leetcode-practice/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [1189-maximum-number-of-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/kenyo3026/leetcode-practice/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kenyo3026/leetcode-practice/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
+| [1331-rank-transform-of-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1657-determine-if-two-strings-are-close](https://github.com/kenyo3026/leetcode-practice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
