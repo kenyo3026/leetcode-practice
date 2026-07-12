@@ -9,7 +9,7 @@ class Solution:
             return parents[x]
 
         def union(x, y):
-            parents[find(x)] = find(y)
+            parents[find(y)] = find(x)
 
         for u, v in edges:
             if find(u) == find(v):
