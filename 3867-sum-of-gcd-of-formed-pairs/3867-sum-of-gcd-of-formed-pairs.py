@@ -7,13 +7,6 @@ class Solution:
         for i in range(1, n):
             prefix_sum[i] = prefix_sum[i-1] if prefix_sum[i-1] > nums[i] else nums[i]
 
-        # def gcd(a, b):
-        #     smaller = min(a, b)
-        #     for i in range(smaller, 0, -1):
-        #         if a % i == 0 and b % i == 0:
-        #             return i
-        #     return 1
-
         prefix_gcd = []
         for i in range(n):
             prefix_gcd.append(gcd(nums[i], prefix_sum[i]))
