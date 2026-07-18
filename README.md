@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/kenyo3026/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/kenyo3026/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenyo3026/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/kenyo3026/leetcode-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kenyo3026/leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kenyo3026/leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kenyo3026/leetcode-practice/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kenyo3026/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kenyo3026/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kenyo3026/leetcode-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kenyo3026/leetcode-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
