@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
 | [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1268-search-suggestions-system](https://github.com/kenyo3026/leetcode-practice/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kenyo3026/leetcode-practice/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/kenyo3026/leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kenyo3026/leetcode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kenyo3026/leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Counting
 |  |
 | ------- |
