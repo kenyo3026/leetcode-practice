@@ -4,4 +4,8 @@ class Solution:
 
         if n <= 2:
             return n
-        return 2 ** n.bit_length()
+
+        ans = 0
+        for i in range(n.bit_length()):
+            ans += 2 ** i
+        return ans + 1
