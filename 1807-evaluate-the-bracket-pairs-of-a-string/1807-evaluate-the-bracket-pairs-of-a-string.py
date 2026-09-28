@@ -11,9 +11,7 @@ class Solution:
                     if s[j] == ')':
                         break
                     j += 1
-                key = s[i+1:j]
-                value = knowledge.get(key, '?')
-                res.append(value)
+                res.append(knowledge.get(s[i+1:j], '?'))
                 i = j
             else:
                 res.append(s[i])
