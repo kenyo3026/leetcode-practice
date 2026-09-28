@@ -12,4 +12,4 @@ class Solution:
             else:
                 stack[-1].extend(char)
 
-        return ''.join(stack[0])
+        return ''.join(stack[-1])
