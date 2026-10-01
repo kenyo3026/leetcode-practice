@@ -4,14 +4,12 @@ class Solution:
         stack = []
 
         for char in s:
-
-            if char in hashmap.values():
-                stack.append(char)
-
-            if char in hashmap.keys():
-                if stack and stack[-1] == hashmap[char]:
+            if char in hashmap and stack:
+                if stack[-1] == hashmap[char]:
                     stack.pop()
                 else:
                     return False
+            else:
+                stack.append(char)
 
-        return len(stack) == 0
+        return not stack
