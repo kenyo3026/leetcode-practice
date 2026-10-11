@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/kenyo3026/leetcode-practice/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/kenyo3026/leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kenyo3026/leetcode-practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/kenyo3026/leetcode-practice/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/kenyo3026/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/kenyo3026/leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/kenyo3026/leetcode-practice/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/kenyo3026/leetcode-practice/tree/master/0790-domino-and-tromino-tiling) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kenyo3026/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/kenyo3026/leetcode-practice/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/kenyo3026/leetcode-practice/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kenyo3026/leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/kenyo3026/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/kenyo3026/leetcode-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kenyo3026/leetcode-practice/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/kenyo3026/leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/kenyo3026/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kenyo3026/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0856-score-of-parentheses) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/kenyo3026/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kenyo3026/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
