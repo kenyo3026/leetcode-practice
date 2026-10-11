@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/kenyo3026/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/kenyo3026/leetcode-practice/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kenyo3026/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/kenyo3026/leetcode-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kenyo3026/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kenyo3026/leetcode-practice/tree/master/0055-jump-game) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/kenyo3026/leetcode-practice/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kenyo3026/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kenyo3026/leetcode-practice/tree/master/0155-min-stack) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kenyo3026/leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kenyo3026/leetcode-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
