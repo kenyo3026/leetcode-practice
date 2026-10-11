@@ -1,21 +1,18 @@
 class Solution:
     def generateParenthesis(self, n: int) -> list[str]:
-        if n == 1: return ["()"]
+        gened_parentheses = []
 
-        n -= 1
-        res = []
+        def dfs(part_of_parentheses:str, op_so_far:int, cl_so_far:int):
 
-        def dfs(O, C, s):
-            if not O and not C:
-                res.append(s + ")")
+            if op_so_far == n and cl_so_far == n:
+                gened_parentheses.append(part_of_parentheses)
                 return
 
-            if O > 0:
-                dfs(O - 1, C, s + "(")
+            if op_so_far < n:
+                dfs(part_of_parentheses+'(', op_so_far+1, cl_so_far)
 
-            if C >= O:
-                dfs(O, C - 1, s + ")")
+            if cl_so_far < op_so_far:
+                dfs(part_of_parentheses+')', op_so_far, cl_so_far+1)
 
-        dfs(n, n, "(")
-
-        return res
+        dfs("", 0, 0)
+        return gened_parentheses
