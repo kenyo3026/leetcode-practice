@@ -5,7 +5,8 @@ class Solution:
 
         digits = []
         for _ in range(num):
-            choice = min(9, sum)
+            # choice = min(9, sum)
+            choice = 9 if sum > 9 else sum
             digits.append(str(choice))
             sum -= choice
 
