@@ -3,15 +3,12 @@ class Solution:
         hashmap = {')':'(', '}':'{', ']':'['}
 
         stack = []
-        for i in range(len(s)):
-
-            if s[i] in hashmap.values():
-                stack.append(s[i])
-
+        for char in s:
+            if char in hashmap.values():
+                stack.append(char)
             else:
-                if stack and stack[-1] == hashmap[s[i]]:
+                if stack and hashmap[char] == stack[-1]:
                     stack.pop()
                 else:
                     return False
-
-        return True
+        return not stack
