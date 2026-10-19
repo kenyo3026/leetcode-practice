@@ -3,13 +3,14 @@ class Solution:
         n = len(nums)
 
         def digit_sum(num):
-            _sum = 0
+            digit_sum = 0
+
             while num:
                 div, mod = num//10, num%10
                 num = div
-                _sum += mod
+                digit_sum += mod
 
-            return _sum
+            return digit_sum
 
         sorted_nums = sorted(nums, key=lambda x: (digit_sum(x), x))
         num_sorted_pos = {num: i for i, num in enumerate(sorted_nums)}
