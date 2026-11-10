@@ -1,7 +1,6 @@
 class Solution:
     def findTheDistanceValue(self, arr1: list[int], arr2: list[int], d: int) -> int:
         far_count = 0
-        arr2.sort()
 
         for a1 in arr1:
             flag = True
