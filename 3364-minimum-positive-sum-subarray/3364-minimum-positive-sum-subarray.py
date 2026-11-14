@@ -4,10 +4,12 @@ class Solution:
         min_sum = float('inf')
 
         for i in range(n):
-            s = 0
-            for j in range(i, min(i + r, n)):
-                s += nums[j]
-                if j - i + 1 >= l and s > 0:
-                    min_sum = min(min_sum, s)
+            sum_so_far = 0
+
+            for j in range(i, min(i+r, n)):
+                sum_so_far += nums[j]
+
+                if j - i >= l - 1 and sum_so_far > 0:
+                    min_sum = min(min_sum, sum_so_far)
 
         return min_sum if min_sum != float('inf') else -1
