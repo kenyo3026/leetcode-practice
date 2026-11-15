@@ -1,5 +1,5 @@
 class Solution:
-    MOD = 10**9 + 7
+    MOD = 10 ** 9 + 7
 
     def numOfSubarrays(self, arr: list[int]) -> int:
         n = len(arr)
@@ -18,5 +18,5 @@ class Solution:
             else:
                 odd[i] = odd[i-1]
                 even[i] = even[i-1] + 1
-    
+
         return sum(odd) % self.MOD
