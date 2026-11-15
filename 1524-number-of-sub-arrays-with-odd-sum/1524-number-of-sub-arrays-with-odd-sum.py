@@ -2,19 +2,21 @@ class Solution:
     MOD = 10**9 + 7
 
     def numOfSubarrays(self, arr: list[int]) -> int:
-        odd, even = 0, 1
-        odd_sum_so_far = 0
-        prefix = 0
+        n = len(arr)
+        odd = [0] * n
+        even = [0] * n
 
-        for num in arr:
-            prefix += num
+        if arr[0] % 2:
+            odd[0] = 1
+        else:
+            even[0] = 1
 
-            if prefix % 2:
-                odd += 1
-                odd_sum_so_far += even
+        for i in range(1, n):
+            if arr[i] % 2:
+                odd[i] = even[i-1] + 1
+                even[i] = odd[i-1]
             else:
-                even += 1
-                odd_sum_so_far += odd
-
-        return odd_sum_so_far % self.MOD
-        
+                odd[i] = odd[i-1]
+                even[i] = even[i-1] + 1
+    
+        return sum(odd) % self.MOD
