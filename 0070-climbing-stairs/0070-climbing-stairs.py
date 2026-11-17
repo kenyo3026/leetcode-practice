@@ -3,10 +3,10 @@ class Solution:
         if n <= 1:
             return 1
 
-        dp = [0] * n
+        dp = [0] * 3
         dp[0], dp[1] = 1, 2
-
         for i in range(2, n):
-            dp[i] = dp[i-1] + dp[i-2]
+            dp[2] = dp[0] + dp[1]
+            dp[0], dp[1] = dp[1], dp[2]
 
-        return dp[-1]
+        return dp[1]
