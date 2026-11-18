@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenyo3026/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kenyo3026/leetcode-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kenyo3026/leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kenyo3026/leetcode-practice/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kenyo3026/leetcode-practice/tree/master/3120-count-the-number-of-special-characters-i) |
