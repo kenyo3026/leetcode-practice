@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/kenyo3026/leetcode-practice/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/kenyo3026/leetcode-practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kenyo3026/leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kenyo3026/leetcode-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kenyo3026/leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kenyo3026/leetcode-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
