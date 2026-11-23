@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/kenyo3026/leetcode-practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/kenyo3026/leetcode-practice/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kenyo3026/leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kenyo3026/leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/kenyo3026/leetcode-practice/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/kenyo3026/leetcode-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kenyo3026/leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1927-sum-game](https://github.com/kenyo3026/leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kenyo3026/leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kenyo3026/leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kenyo3026/leetcode-practice/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/kenyo3026/leetcode-practice/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/kenyo3026/leetcode-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0901-online-stock-span](https://github.com/kenyo3026/leetcode-practice/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kenyo3026/leetcode-practice/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kenyo3026/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kenyo3026/leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kenyo3026/leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kenyo3026/leetcode-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/kenyo3026/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
